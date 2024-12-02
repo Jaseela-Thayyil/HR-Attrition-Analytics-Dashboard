@@ -1,6 +1,8 @@
 # HR-Attrition-Analytics-Dashboard
 # Project Objective
 The objective of this project is to analyze employee attrition across various departments and roles within an organization, using advanced data analysis and visualization tools like Excel, SQL, Tableau, and Power BI. The aim is to uncover trends and patterns that can help stakeholders make informed decisions to improve retention strategies and enhance workforce satisfaction.
+# Dataset used
+
 # Key Questions (KPIs)
 1. Average Attrition rate for all Departments
 
