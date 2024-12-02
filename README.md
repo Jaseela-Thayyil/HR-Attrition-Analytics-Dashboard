@@ -62,3 +62,5 @@ Interactive filters for department-wise and role-specific attrition.
 
 Comprehensive visuals for promotion analysis and income trends.
 <a href="https://github.com/Jaseela-Thayyil/HR-Attrition-Analytics-Dashboard/blob/main/HR%20Analytics-Tableau%20db.twbx">View-Dashboard<a/>
+#### 4.SQL
+<a href="https://github.com/Jaseela-Thayyil/HR-Attrition-Analytics-Dashboard/blob/main/hr_dashboard%20querry.sql">View-Query<a/>
