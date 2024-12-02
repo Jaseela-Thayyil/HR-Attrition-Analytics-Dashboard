@@ -42,3 +42,9 @@ The objective of this project is to analyze employee attrition across various de
        Created a comprehensive, interactive dashboard with visuals like pie charts, bar charts, and scatter plots.
           
        Connected multiple data sources and created calculated measures for in-depth analysis.
+# Dashboards:-
+#### 1. Excel Dashboard
+ Focus on attrition and active employee distribution.
+ 
+ Department and gender-based visualizations.
+ 
