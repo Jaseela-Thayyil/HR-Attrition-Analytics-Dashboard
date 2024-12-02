@@ -16,4 +16,5 @@ The objective of this project is to analyze employee attrition across various de
 
 7. Cards:Total Employee,Attrition count,Average Attrition Rate,Active Employee count..
 
-
+# Process
+### Excel:-
