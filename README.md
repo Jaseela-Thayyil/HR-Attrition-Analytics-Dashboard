@@ -49,10 +49,15 @@ The objective of this project is to analyze employee attrition across various de
 Focus on attrition and active employee distribution.
 
 Department and gender-based visualizations.
-<a href="https://github.com/Jaseela-Thayyil/HR-Attrition-Analytics-Dashboard/blob/main/dashboard%20hr.xlsx"> View-Dahboard<a/>
+<a href="https://github.com/Jaseela-Thayyil/HR-Attrition-Analytics-Dashboard/blob/main/dashboard%20hr.xlsx"> View-Dashboard<a/>
 #### 2.Power BI Dashboard
 ![screenshot of application](https://github.com/Jaseela-Thayyil/HR-Attrition-Analytics-Dashboard/blob/main/Hr-power%20bi.png)
 Holistic overview of KPIs, including demographics, income trends, and job satisfaction levels.
 
 Export functionality for detailed reports.
 <a href="https://github.com/Jaseela-Thayyil/HR-Attrition-Analytics-Dashboard/blob/main/Hr%20Analytics%20-Power%20Bi%20db.pbix">View-Dashboard<a/>
+#### 3. Tableau Dashboard
+![screenshot of application](https://github.com/Jaseela-Thayyil/HR-Attrition-Analytics-Dashboard/blob/main/HR%20SUMMARY.png)
+Interactive filters for department-wise and role-specific attrition.
+
+Comprehensive visuals for promotion analysis and income trends.
