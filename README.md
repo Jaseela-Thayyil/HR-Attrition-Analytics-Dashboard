@@ -37,7 +37,7 @@ The objective of this project is to analyze employee attrition across various de
        Visualized department-wise attrition rates, income trends, and promotion history.
            
        Designed dynamic dashboards with filters for real-time analysis
-5. Power BI:-
+ 5. Power BI:-
    
        Created a comprehensive, interactive dashboard with visuals like pie charts, bar charts, and scatter plots.
           
