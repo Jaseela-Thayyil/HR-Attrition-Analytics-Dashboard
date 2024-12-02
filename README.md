@@ -47,4 +47,4 @@ The objective of this project is to analyze employee attrition across various de
  Focus on attrition and active employee distribution.
  
  Department and gender-based visualizations.
- 
+ ![screenshot of application]
