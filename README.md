@@ -55,3 +55,4 @@ Department and gender-based visualizations.
 Holistic overview of KPIs, including demographics, income trends, and job satisfaction levels.
 
 Export functionality for detailed reports.
+<a href="https://github.com/Jaseela-Thayyil/HR-Attrition-Analytics-Dashboard/blob/main/Hr%20Analytics%20-Power%20Bi%20db.pbix">View-Dashboard<a/>
