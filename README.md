@@ -26,7 +26,8 @@ The objective of this project is to analyze employee attrition across various de
 #### 2. SQL:-
            Imported datasets into a relational database.
            
-           Queried and aggregated data to calculate KPIs like average Attrition Rate, attrition by department, and income distribution.
+           Queried and aggregated data to calculate KPIs like average Attrition Rate, 
+           attrition by department, and income distribution.
            
            Filtered data based on specific conditions such as gender, job roles, and department
 #### 3. Tableau:-
