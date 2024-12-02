@@ -76,4 +76,6 @@ Comprehensive visuals for promotion analysis and income trends.
   Income and Attrition: Employees in the low-income category tend to have a slightly higher attrition rate.
   
   Promotion Impact: Employees who haven’t been promoted in over 10 years show higher attrition rates compared to those 
-  promoted more recently
+  promoted more recently.
+# Conclusion
+The HR-Attrition Dashboard provides actionable insights into the key factors influencing employee attrition. By focusing on departments and roles with the highest attrition rates and addressing issues like promotion delays and income disparities, the organization can improve retention and create a more satisfied workforce. This project demonstrates how integrating tools like Excel, SQL, Tableau, and Power BI can drive data-driven decisions.
