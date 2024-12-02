@@ -51,4 +51,7 @@ Focus on attrition and active employee distribution.
 Department and gender-based visualizations.
 <a href="https://github.com/Jaseela-Thayyil/HR-Attrition-Analytics-Dashboard/blob/main/dashboard%20hr.xlsx"> View-Dahboard<a/>
 #### 2.Power BI Dashboard
-![screenshot of application](
+![screenshot of application](https://github.com/Jaseela-Thayyil/HR-Attrition-Analytics-Dashboard/blob/main/Hr-power%20bi.png)
+Holistic overview of KPIs, including demographics, income trends, and job satisfaction levels.
+
+Export functionality for detailed reports.
