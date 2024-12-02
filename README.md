@@ -17,4 +17,23 @@ The objective of this project is to analyze employee attrition across various de
 7. Cards:Total Employee,Attrition count,Average Attrition Rate,Active Employee count..
 
 # Process
-### Excel:-
+#### 1. Excel:-
+           Cleaned raw data to remove inconsistencies and duplicates. 
+           
+           Conducted initial exploratory data analysis to calculate key metrics (e.g., total employees, attrition rate).
+           
+           Created interactive dashboards showcasing attrition trends and departmental insights.
+#### 2. SQL:-
+           Imported datasets into a relational database.
+           
+           Queried and aggregated data to calculate KPIs like average Attrition Rate, attrition by department, and income distribution.
+           
+           Filtered data based on specific conditions such as gender, job roles, and department
+#### 3. Tableau:-
+           Visualized department-wise attrition rates, income trends, and promotion history.
+           
+           Designed dynamic dashboards with filters for real-time analysis
+#### 4. Power BI:-
+          Created a comprehensive, interactive dashboard with visuals like pie charts, bar charts, and scatter plots.
+          
+          Connected multiple data sources and created calculated measures for in-depth analysis.
