@@ -44,7 +44,9 @@ The objective of this project is to analyze employee attrition across various de
        Connected multiple data sources and created calculated measures for in-depth analysis.
 # Dashboards:-
 #### 1. Excel Dashboard
- Focus on attrition and active employee distribution.
  
- Department and gender-based visualizations.
  ![screenshot of application](https://github.com/Jaseela-Thayyil/HR-Attrition-Analytics-Dashboard/blob/main/Hr%3DExcel%20db.png)
+Focus on attrition and active employee distribution.
+
+Department and gender-based visualizations.
+<a href=
