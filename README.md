@@ -49,4 +49,5 @@ The objective of this project is to analyze employee attrition across various de
 Focus on attrition and active employee distribution.
 
 Department and gender-based visualizations.
-<a href=
+<a href="https://github.com/Jaseela-Thayyil/HR-Attrition-Analytics-Dashboard/blob/main/dashboard%20hr.xlsx"> View-Dahboard<a/>
+
