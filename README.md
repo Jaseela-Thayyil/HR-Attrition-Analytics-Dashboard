@@ -64,3 +64,16 @@ Comprehensive visuals for promotion analysis and income trends.
 <a href="https://github.com/Jaseela-Thayyil/HR-Attrition-Analytics-Dashboard/blob/main/HR%20Analytics-Tableau%20db.twbx">View-Dashboard<a/>
 #### 4.SQL
 <a href="https://github.com/Jaseela-Thayyil/HR-Attrition-Analytics-Dashboard/blob/main/hr_dashboard%20querry.sql">View-Query<a/>
+# Insights from Dashboards
+  Attrition Rate: The organization experiences a high overall attrition rate of 50.21%.
+  
+  Departmental Trends: Research & Development has the highest attrition rate (51.21%), while Human Resources has one of the 
+  lowest.
+  
+  Work-Life Balance: Employees in roles like Research Scientist and Developer report better work-life balance, correlating 
+  to lower attrition in these categories.
+  
+  Income and Attrition: Employees in the low-income category tend to have a slightly higher attrition rate.
+  
+  Promotion Impact: Employees who haven’t been promoted in over 10 years show higher attrition rates compared to those 
+  promoted more recently
